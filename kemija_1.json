@@ -3,7 +3,7 @@
   "questions": {
     "dollars100": [
       {
-        "question": "Kaj je kemija?",
+        "question": "Kaj je kemija danas?",
         "answerA": "Neparan broj",
         "answerB": "Paran broj",
         "answerC": "Broj djeljiv sa 3",
