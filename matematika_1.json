@@ -1,0 +1,155 @@
+{
+  "minimumQuestionsPerMoneyAmount": 1,
+  "questions": {
+    "dollars100": [
+      {
+        "question": "Kakav je zbroj bilo koja dva parna broja?",
+        "answerA": "Neparan broj",
+        "answerB": "Paran broj",
+        "answerC": "Broj djeljiv sa 3",
+        "answerD": "Broj djeljiv sa 10",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars200": [
+      {
+        "question": "Koliko znamenaka sadrži decimalni brojevni sustav?",
+        "answerA": "2",
+        "answerB": "9",
+        "answerC": "10",
+        "answerD": "11",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars300": [
+      {
+        "question": "'Kvadratni korijen' se još naziva i...",
+        "answerA": "Prvi korijen",
+        "answerB": "Drugi korijen",
+        "answerC": "Treći korijen",
+        "answerD": "Četvrti korijen",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars500": [
+      {
+        "question": "Kako glasi drugi naziv za duljinu promjera kružnice?",
+        "answerA": "Radijus",
+        "answerB": "Opseg",
+        "answerC": "Visina",
+        "answerD": "Dijametar",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars1000": [
+      {
+        "question": "Ivan ima brata starijeg jednu godinu. Koliko njegov\nbrat ima godina, ako zajedno imaju 19 godina?",
+        "answerA": "5",
+        "answerB": "9",
+        "answerC": "10",
+        "answerD": "18",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars2000": [
+      {
+        "question": "Kojem od sljedećih brojeva je peta potencija\nmanja od treće?",
+        "answerA": "-2",
+        "answerB": "1",
+        "answerC": "1.5",
+        "answerD": "32",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars4000": [
+      {
+        "question": "Kolika je šansa da triput zaredom baciš šesticu\nna igraćoj kocki?",
+        "answerA": "1 u 1",
+        "answerB": "1 u 6",
+        "answerC": "1 u 36",
+        "answerD": "1 u 216",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars8000": [
+      {
+        "question": "Ako je zbroj dva nasuprotna kuta romba\n200, koliko iznosi svaki od preostalih kuteva?",
+        "answerA": "60",
+        "answerB": "80",
+        "answerC": "100",
+        "answerD": "120",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars16000": [
+      {
+        "question": "Koliko milisekundi traje jedan dan?",
+        "answerA": "560,000",
+        "answerB": "46,520,000",
+        "answerC": "86,400,000",
+        "answerD": "123,200,000",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars32000": [
+      {
+        "question": "Koji od sljedećih brojeva ne može biti baza\nlogaritma?",
+        "answerA": "0.5",
+        "answerB": "1",
+        "answerC": "Pi",
+        "answerD": "10",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars64000": [
+      {
+        "question": "Kako se na engleskom kaže 'šestar'?",
+        "answerA": "Divider",
+        "answerB": "Compounder",
+        "answerC": "Sixer",
+        "answerD": "Radier",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars125000": [
+      {
+        "question": "Presjekom koja dva tijela se dobiva oblik\nzrcala za povećalo?",
+        "answerA": "Valjka i kugle",
+        "answerB": "Dvije kugle",
+        "answerC": "Dva valjka",
+        "answerD": "Kugle i stošca",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars250000": [
+      {
+        "question": "Kod kružnice se fiksna točka naziva središtem.\nKako se nazivaju dvije fiksne točke kod elipsa?",
+        "answerA": "Fokusi",
+        "answerB": "Baze",
+        "answerC": "Težišta",
+        "answerD": "Ekvivalije",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars500000": [
+      {
+        "question": "Koji je matematičar uveo tzv. postulate geometrije?",
+        "answerA": "Aristotel",
+        "answerB": "Pitagora",
+        "answerC": "Euklid",
+        "answerD": "Euler",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars1000000": [
+      {
+        "question": "U linearnoj algebri, dva su vektorska prostora jednakih\ndimenzija ako imaju jednaki broj čega?",
+        "answerA": "Mogućih vektora",
+        "answerB": "Broj komponenata vektora baze",
+        "answerC": "Funkcija koje ih opisuju",
+        "answerD": "Broj vektora u bazi",
+        "correctAnswer": "D"
+      }
+    ]
+  }
+}
