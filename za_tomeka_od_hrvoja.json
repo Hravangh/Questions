@@ -1,0 +1,155 @@
+{
+  "minimumQuestionsPerMoneyAmount": 1,
+  "questions": {
+    "dollars100": [
+      {
+        "question": "Koji je od elemenata PSE najgušći?",
+        "answerA": "Zlato",
+        "answerB": "Ugljik",
+        "answerC": "Željezo",
+        "answerD": "Osmij",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars200": [
+      {
+        "question": "Koji je kemijski naziv sode bikarbone?",
+        "answerA": "Natrijev hidrogenkarbonat",
+        "answerB": "Kalijev oksid",
+        "answerC": "Ugljikov tetraklorid",
+        "answerD": "Karbonatni biklor",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars300": [
+      {
+        "question": "Koji od navedenih elemenata ima\natom najmanjeg polumjera?",
+        "answerA": "Kalij",
+        "answerB": "Jod",
+        "answerC": "Skandij",
+        "answerD": "Arsen",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars500": [
+      {
+        "question": "Koja sila djeluje između iona u kristalnoj rešetki?",
+        "answerA": "Gravitacijska",
+        "answerB": "Ampereova",
+        "answerC": "Coulombova",
+        "answerD": "Trenje",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars1000": [
+      {
+        "question": "Kakva kemijska veza postoji u kuhinjskoj soli?",
+        "answerA": "Ionske",
+        "answerB": "Kovalentne",
+        "answerC": "Ionska i kovalentna",
+        "answerD": "Metalne",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars2000": [
+      {
+        "question": "Kako se zove veza u lancu celuloze?",
+        "answerA": "Kovalentna",
+        "answerB": "Monoklinska",
+        "answerC": "Peptidna",
+        "answerD": "Protonska",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars4000": [
+      {
+        "question": "Koji je znanstvenik prvi odredio omjer naboja\nelektrona i njegove mase u Braunovoj cijevi?",
+        "answerA": "Henry Cavendish",
+        "answerB": "J. J. Thomson",
+        "answerC": "Michael Faraday",
+        "answerD": "John Dalton",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars8000": [
+      {
+        "question": "Koji je hrvatski kemičar prvi dobio Nobelovu nagradu?",
+        "answerA": "Lavoslav Ružička",
+        "answerB": "Vladimir Prelog",
+        "answerC": "Ivica Kičmanović",
+        "answerD": "Nikola Tesla",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars16000": [
+      {
+        "question": "Koji proces je ključan za disanje kod ljudi?",
+        "answerA": "Transdukcija",
+        "answerB": "Mejoza",
+        "answerC": "Difuzija",
+        "answerD": "Osmoza",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars32000": [
+      {
+        "question": "Koja temperatura je prag ionizacije atoma?",
+        "answerA": "10,000 K",
+        "answerB": "27,000 K",
+        "answerC": "642,896 K",
+        "answerD": "1,000,000 K",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars64000": [
+      {
+        "question": "U koju skupinu čestica spadaju protoni i neutroni?",
+        "answerA": "Leptoni",
+        "answerB": "Hadroni",
+        "answerC": "Bozoni",
+        "answerD": "Kvarkovi",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars125000": [
+      {
+        "question": "Koje je vrijeme poluraspada Uranija-238?",
+        "answerA": "100 bilijardi godina",
+        "answerB": "4.5 milijardi godina",
+        "answerC": "3 mikrosekunde",
+        "answerD": "10 dana",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars250000": [
+      {
+        "question": "Kako se zove metoda kojom se određuje struktura kristala?",
+        "answerA": "Rendgenska strukturna analiza",
+        "answerB": "Dopplerova analiza",
+        "answerC": "Elektronska mikroskopija",
+        "answerD": "Spektralna analiza",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars500000": [
+      {
+        "question": "Koji je matematičar uveo tzv. postulate geometrije?",
+        "answerA": "Aristotel",
+        "answerB": "Pitagora",
+        "answerC": "Euklid",
+        "answerD": "Euler",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars1000000": [
+      {
+        "question": "Koje su od navedenih varijabli u\nkvantnoj fizici komplementarne?",
+        "answerA": "Ubrzanje i vrijeme",
+        "answerB": "Energija i količina gibanja",
+        "answerC": "Naboj i položaj",
+        "answerD": "Položaj i količina gibanja",
+        "correctAnswer": "D"
+      }
+    ]
+  }
+}
