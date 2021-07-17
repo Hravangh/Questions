@@ -44,10 +44,10 @@
     "dollars1000": [
       {
         "question": "Kakva kemijska veza postoji u kuhinjskoj soli?",
-        "answerA": "Ionske",
-        "answerB": "Kovalentne",
+        "answerA": "Ionska",
+        "answerB": "Kovalentna",
         "answerC": "Ionska i kovalentna",
-        "answerD": "Metalne",
+        "answerD": "Metalna",
         "correctAnswer": "A"
       }
     ],
